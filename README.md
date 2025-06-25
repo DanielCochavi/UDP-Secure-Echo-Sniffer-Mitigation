@@ -35,8 +35,8 @@
 
 ## Quick Start
 ```bash
-git clone https://github.com/<YOUR_USER>/udp-secure-echo.git
-cd udp-secure-echo
+git clone https://github.com/DanielCochavi/UDP-Secure-Echo-Sniffer-Mitigation.git
+cd UDP-Secure-Echo-Sniffer-Mitigation
 pip install -r requirements.txt        # scapy==2.5.0 etc.
 
 # Terminal 1 – server
