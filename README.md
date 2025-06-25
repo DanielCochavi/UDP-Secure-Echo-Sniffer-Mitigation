@@ -43,7 +43,7 @@ pip install -r requirements.txt        # scapy==2.5.0 etc.
 python3.11 server.py
 
 # Terminal 2 – client
-python3.11 client.py --text "Hello CyberArk"
+python3.11 client.py --text "Hello Daniel"
 
 # Terminal 3 – sniffer (passive)
 sudo python3.11 sniffer.py --iface lo --color
